@@ -22,7 +22,7 @@ This documentation is the **central navigation hub** for all product knowledge, 
 *   📦 **Export-ready architectures**
     
 It scales from simple chatbots to enterprise-grade orchestration systems.
-👉 Learn more in **[Overview](/Overview)**
+👉 Learn more in **[Overview](/Overview.md)**
 
 * * *
 
@@ -82,7 +82,7 @@ You are encouraged to:
     
 *   Competitive positioning
     
-➡️ **Go to [Overview](/Overview)→**
+➡️ **Go to [Overview](/Overview.md)→**
 
 * * *
 
@@ -99,7 +99,7 @@ You are encouraged to:
     
 *   Core concepts explained
     
-➡️ **Go to [Getting Started](/GettingStarted) →**
+➡️ **Go to [Getting Started](/GettingStarted.md) →**
 
 * * *
 
@@ -118,7 +118,7 @@ You are encouraged to:
     
 *   File explorer
     
-➡️ **Go to [Bot Designer (Canvas & UX)](/BotDesigner) →**
+➡️ **Go to [Bot Designer (Canvas & UX)](/BotDesigner.md) →**
 
 * * *
 
@@ -141,7 +141,7 @@ You are encouraged to:
     
 *   Output nodes
     
-➡️ **Go to [Nodes Reference](/NodesReference) →**
+➡️ **Go to [Nodes Reference](/NodesReference.md) →**
 
 * * *
 
@@ -160,7 +160,7 @@ You are encouraged to:
     
 *   Determinism guarantees
     
-➡️ **Go to [Execution & Runtime Model](/Execution) →**
+➡️ **Go to [Execution & Runtime Model](/Execution.md) →**
 
 * * *
 
@@ -177,7 +177,7 @@ You are encouraged to:
     
 *   Testing strategies
     
-➡️ **Go to [Debugging, Testing & Observability](/Debugging) →**
+➡️ **Go to [Debugging, Testing & Observability](/Debugging.md) →**
 
 * * *
 
@@ -194,7 +194,7 @@ You are encouraged to:
     
 *   Channel roadmap
     
-➡️ **Go to [Deployment, Channels & Environments](/Deployment) →**
+➡️ **Go to [Deployment, Channels & Environments](/Deployment.md) →**
 
 * * *
 
@@ -211,7 +211,7 @@ You are encouraged to:
     
 *   Marketplace integration
     
-➡️ **Go to [Extensibility, Skills & Marketplace](/Extensibility) →**
+➡️ **Go to [Extensibility, Skills & Marketplace](/Extensibility.md) →**
 
 * * *
 
@@ -228,7 +228,7 @@ You are encouraged to:
     
 *   Deprecation policy
     
-➡️ **Go to [Roadmap, Versions & Governance](/Roadmap) →**
+➡️ **Go to [Roadmap, Versions & Governance](/Roadmap.md) →**
 
 * * *
 
@@ -245,7 +245,7 @@ You are encouraged to:
     
 *   Reporting issues
     
-➡️ **Go to [FAQ, Limitations & Troubleshooting](/FAQ) →**
+➡️ **Go to [FAQ, Limitations & Troubleshooting](/FAQ.md) →**
 
 * * *
 
@@ -271,13 +271,13 @@ If something cannot be explained clearly, it is treated as a design flaw.
 🚦 Where Should You Start?
 --------------------------
 
-*   🟢 **New user** → [Overview](/Overview) → [Getting Started](/GettingStarted)
+*   🟢 **New user** → [Overview](/Overview.md) → [Getting Started](/GettingStarted.md)
     
-*   🟡 **Flow designer** → [Bot Designer (Canvas & UX)](/BotDesigner) → [Nodes Reference](/NodesReference)
+*   🟡 **Flow designer** → [Bot Designer (Canvas & UX)](/BotDesigner.md) → [Nodes Reference](/NodesReference.md)
     
-*   🔵 **Debugging issues** → [Execution & Runtime Model](/Execution)
+*   🔵 **Debugging issues** → [Execution & Runtime Model](/Execution.md)
     
-*   🟣 **Extending the platform** → [Extensibility, Skills & Marketplace](/Extensibility)
+*   🟣 **Extending the platform** → [Extensibility, Skills & Marketplace](/Extensibility.md)
     
 
 * * *
